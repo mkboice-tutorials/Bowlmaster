@@ -50,6 +50,7 @@
      <Compile Include="Assets\START Pack\Scripts\OurScoreDisplayTest1.cs" />
      <Compile Include="Assets\Scripts\Ball.cs" />
      <Compile Include="Assets\Scripts\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\DragLaunch.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
