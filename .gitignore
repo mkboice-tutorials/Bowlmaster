@@ -24,6 +24,7 @@ sysinfo.txt
  *.pidb
  *.booproj
  *.svd
+.vs
   
 # Builds
   *.apk
